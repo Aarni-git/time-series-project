@@ -74,3 +74,16 @@ Install dependencies:
 
 ```bash
 pip install pandas numpy matplotlib yfinance
+```
+
+Launch jupyterlab:
+
+```bash
+jupyter lab
+```
+
+Open the notebook:
+
+```text
+analysis.ipynb
+```
